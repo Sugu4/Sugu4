@@ -1,14 +1,48 @@
-Hallo, 
+# 👋 Hallo, ich bin Süleyman Gümüs
 
-Mein Name ist Süleyman ich bin Azubi Fachinformatiker Anwendungsentwicklung | Lean Six Sigma & Kaizen | Lösungen für nachhaltige Prozess- und Softwareoptimierung.
+**Azubi Fachinformatiker für Anwendungsentwicklung**  
+**Lean Six Sigma Green Belt | Kaizen-Spezialist**  
+🎯 Lösungen für nachhaltige Prozess- & Softwareoptimierung
 
-Als lösungsorientierter Mensch, fokussiere ich mich darauf, Probleme und Herausforderungen effektiv und effizient zu lösen.
-Ich Arbeite nicht nur daran, Fehler oder Hindernisse zu identifizieren, sondern setze mich auch aktiv dafür ein, Wege zu finden, um diese zu überwinden. 
-Ich bin teamorientiert und arbeite eng mit anderen zusammen, um Lösungen zu finden, die für alle Beteiligten akzeptabel sind. Ich bin offen für Feedback und lerne aus Erfahrungen, um Herausforderungen besser bewältigen zu können. 
-Ich habe bereits sehr viele Projekte erfolgreich abgeschlossen, sodass vom Kunden 
-bis zum Mitarbeiter ein positives Feedback an die Geschäftsleitung weitergeben 
-wurde. Ich sammelte mehrere Jahre Berufserfahrung und erweiterte nicht nur mein 
-Wissen, sondern auch das Kunden- und prozessorientierte Arbeiten. Gleichzeitig 
-konnte ich durch meine Optimierungen Gewinne erzielen und sorgte für einen,
-Effizienten und Wettbewerbsfähigen Prozess.
-Gleichzeitig ist es mir ein Anliegen, die Arbeitsbedingungen und Ergonomie der Mitarbeiter zu verbessern, um eine positive Arbeitsumgebung und eine höhere Mitarbeiterzufriedenheit zu schaffen. 
+---
+
+## 🚀 Über mich
+
+Als lösungsorientierter Mensch fokussiere ich mich darauf, Probleme und Herausforderungen **effektiv und effizient** zu lösen.  
+Ich identifiziere nicht nur Hindernisse, sondern entwickle aktiv Wege, um sie nachhaltig zu überwinden.
+
+Ich bin:
+
+- 🤝 teamorientiert und offen für Feedback
+- 📈 kunden- und prozessorientiert
+- 🔍 lernbereit und technikaffin
+
+In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöhen**, sondern auch durch **strukturierte Prozessoptimierungen** **Effizienzgewinne** für das Unternehmen erzielen.
+
+---
+
+## 💼 Mein Hintergrund
+
+- 💻 Umschulung: Fachinformatiker Anwendungsentwicklung (seit 2025)
+- 🧠 Mehrjährige Berufserfahrung in Produktion & Optimierung
+- 📊 Lean Management, REFA, Kaizen & Digitalisierung
+- 📈 Fokus auf ergonomische und wirtschaftliche Prozessgestaltung
+
+---
+
+## 🔧 Aktuelle Ziele
+
+- Programmierkenntnisse in Python, HTML, CSS, Git & SQL erweitern  
+- Reale Projekte umsetzen (Portfolio, Webtools, Automatisierung)
+
+---
+
+## 📬 Kontakt
+
+📧 E-Mail: sueleyman.guemues46@gmail.com  
+🌐 Portfolio: [https://sugu4.github.io/guemues](https://sugu4.github.io/guemues)
+
+---
+
+> „Erfolg ist kein Zufall – sondern das Ergebnis von Analyse, Umsetzung und Leidenschaft.“
+
