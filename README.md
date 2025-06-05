@@ -39,7 +39,6 @@ In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöh
 
 ## 📬 Kontakt
 
-📧 E-Mail: sueleyman.guemues46@gmail.com  
 🌐 Portfolio: [https://sugu4.github.io/guemues](https://sugu4.github.io/guemues)
 
 ---
