@@ -21,7 +21,7 @@ In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöh
 
 ---
 
-## 💼 Mein Hintergrund
+## 💼 Mein Hintergrund 
 
 - 💻 Umschulung: Fachinformatiker Anwendungsentwicklung (seit 2025)
 - 🧠 Mehrjährige Berufserfahrung in Produktion & Optimierung
