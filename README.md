@@ -23,16 +23,16 @@ In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöh
 
 ## 💼 Mein Hintergrund 
 
-- 💻 Umschulung: Fachinformatiker Anwendungsentwicklung (seit 2025)
+- 💻 Umschulung: Fachinformatiker Anwendungsentwicklung (seit Januar 2025)
 - 🧠 Mehrjährige Berufserfahrung in Produktion & Optimierung
-- 📊 Lean Management, REFA, Kaizen & Digitalisierung
+- 📊 Lean Management, REFA, Kaizen (KVP) & Digitalisierung
 - 📈 Fokus auf ergonomische und wirtschaftliche Prozessgestaltung
 
 ---
 
 ## 🔧 Aktuelle Ziele
 
-- Programmierkenntnisse in Python, HTML, CSS, Git & SQL erweitern  
+- Programmierkenntnisse in Python, Java, HTML, CSS, Git & SQL erweitern  
 - Reale Projekte umsetzen (Portfolio, Webtools, Automatisierung)
 
 ---
