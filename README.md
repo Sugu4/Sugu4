@@ -33,7 +33,7 @@ In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöh
 ## 🔧 Aktuelle Ziele
 
 - Programmierkenntnisse in Python, Java, HTML, CSS, JavaScript, Git & SQL erweitern  
-- Reale Projekte umsetzen (Portfolio, Webtools, Automatisierung)
+- Reale Projekte umsetzen (Portfolio, Webtools, Datenbanken und Automatisierung)
 
 ---
 
