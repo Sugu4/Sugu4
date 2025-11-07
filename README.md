@@ -2,7 +2,7 @@
 
 **Azubi Fachinformatiker für Anwendungsentwicklung**  
 **Lean Six Sigma Green Belt | Kaizen-Spezialist**  
-🎯 Lösungen für nachhaltige Prozess- & Softwareoptimierung
+Lösungen für nachhaltige Prozess- & Softwareoptimierung
 
 ---
 
@@ -13,31 +13,31 @@ Ich identifiziere nicht nur Hindernisse, sondern entwickle aktiv Wege, um sie na
 
 Ich bin:
 
-- 🤝 teamorientiert und offen für Feedback
-- 📈 kunden- und prozessorientiert
-- 🔍 lernbereit und technikaffin
+- teamorientiert und offen für Feedback
+- kunden- und prozessorientiert
+- lernbereit und technikaffin
 
 In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöhen**, sondern auch durch **strukturierte Prozessoptimierungen** **Effizienzgewinne** für das Unternehmen erzielen.
 
 ---
 
-## 💼 Mein Hintergrund 
+## Mein Hintergrund 
 
-- 💻 Umschulung: Fachinformatiker Anwendungsentwicklung (seit Januar 2025)
-- 🧠 Mehrjährige Berufserfahrung in Produktion & Optimierung
-- 📊 Lean Management, REFA, Kaizen (KVP) & Digitalisierung
-- 📈 Fokus auf ergonomische und wirtschaftliche Prozessgestaltung
+- Umschulung: Fachinformatiker Anwendungsentwicklung (seit Januar 2025)
+- Mehrjährige Berufserfahrung in Produktion & Optimierung
+- Lean Management, REFA, Kaizen (KVP) & Digitalisierung
+- Fokus auf ergonomische und wirtschaftliche Prozessgestaltung
 
 ---
 
-## 🔧 Aktuelle Ziele
+## Aktuelle Ziele
 
 - Programmierkenntnisse in Python, Java, HTML, CSS, JavaScript, Git & SQL erweitern  
 - Reale Projekte umsetzen (Portfolio, Webtools, Datenbanken und Automatisierung)
 
 ---
 
-## 📬 Kontakt
+## Kontakt
 
 🌐 Portfolio: [https://sugu4.github.io/guemues](https://sugu4.github.io/guemues)
 
