@@ -23,10 +23,14 @@ In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöh
 
 ## Mein Hintergrund 
 
-- Umschulung: Fachinformatiker Anwendungsentwicklung (seit Januar 2025)
-- Mehrjährige Berufserfahrung in Produktion & Optimierung
-- Lean Management, REFA, Kaizen (KVP) & Digitalisierung
-- Fokus auf ergonomische und wirtschaftliche Prozessgestaltung
+- Aktuell in der Umschulung zum Fachinformatiker für Anwendungsentwicklung (Start: Januar 2025)
+- Schwerpunkt auf Java, Python, SQL sowie Webtechnologien (HTML, CSS, JavaScript)
+- Praxiserfahrung mit REST-APIs und FastAPI in eigenen Projekten
+- Umsetzung objektorientierter Programmierung und Datenbankanbindung (SQLite, PostgreSQL)
+- Regelmäßige Praxis durch „100 Days of Code“ und GitHub-Projekte
+- Sicher im Umgang mit Versionskontrolle (Git/GitHub) und technischer Dokumentation
+- Mehrjährige Berufserfahrung in Prozessoptimierung, Lean Management, REFA und KVP (Kaizen)
+- Fokus auf effiziente, ergonomische und digitalisierte Prozessgestaltung
 
 ---
 
