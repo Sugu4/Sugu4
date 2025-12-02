@@ -1,6 +1,6 @@
 # 👋 Hallo, ich bin Süleyman Gümüs
 
-**Azubi Fachinformatiker für Anwendungsentwicklung**  
+**Umschüler Fachinformatiker für Anwendungsentwicklung**  
 **Lean Six Sigma Green Belt | Kaizen-Spezialist**  
 Lösungen für nachhaltige Prozess- & Softwareoptimierung
 
