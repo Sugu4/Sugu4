@@ -43,7 +43,7 @@ In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöh
 
 ## Kontakt
 
-🌐 Portfolio: [CRV](https://sugu4.github.io/GuemuesPortfolio/)
+🌐 Portfolio: [Süleyman Gümüs](https://sugu4.github.io/GuemuesPortfolio/)
 
 ---
 
