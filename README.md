@@ -1,4 +1,4 @@
-#👋 Hallo, ich bin Süleyman Gümüs
+# 👋 Hallo, ich bin Süleyman Gümüs
 
 **Umschüler Fachinformatiker für Anwendungsentwicklung**  
 **Lean Six Sigma Green Belt | Kaizen-Spezialist**  
@@ -10,7 +10,7 @@ Lösungen für nachhaltige Prozess- & Softwareoptimierung
 
 ---
 
-##  Über mich
+## Über mich
 
 Als lösungsorientierter Mensch fokussiere ich mich darauf, Probleme und Herausforderungen **effektiv und effizient** zu lösen.  
 Ich identifiziere nicht nur Hindernisse, sondern entwickle aktiv Wege, um sie nachhaltig zu überwinden.
