@@ -10,7 +10,9 @@ Lösungen für nachhaltige Prozess- & Softwareoptimierung
 
 🌐 Portfolio: [Süleyman Gümüs](https://sugu4.github.io/GuemuesPortfolio/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ansehen-blue?style=for-the-badge)]([LINK](https://sugu4.github.io/GuemuesPortfolio/))
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ansehen-blue?style=for-the-badge)](https://sugu4.github.io/GuemuesPortfolio/)
 
 ---
 
