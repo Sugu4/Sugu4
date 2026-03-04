@@ -6,6 +6,14 @@ Lösungen für nachhaltige Prozess- & Softwareoptimierung
 
 ---
 
+## Kontakt
+
+🌐 Portfolio: [Süleyman Gümüs](https://sugu4.github.io/GuemuesPortfolio/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ansehen-blue?style=for-the-badge)]([LINK](https://sugu4.github.io/GuemuesPortfolio/))
+
+---
+
 ##  Über mich
 
 Als lösungsorientierter Mensch fokussiere ich mich darauf, Probleme und Herausforderungen **effektiv und effizient** zu lösen.  
