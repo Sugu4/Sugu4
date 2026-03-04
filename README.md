@@ -25,7 +25,7 @@ In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöh
 
 ---
 
-## Mein Hintergrund 
+### Mein Hintergrund 
 
 - Aktuell in der Umschulung zum Fachinformatiker für Anwendungsentwicklung (Start: Januar 2025)
 - Schwerpunkt auf Java, Python, SQL sowie Webtechnologien (HTML, CSS, JavaScript)
@@ -38,14 +38,14 @@ In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöh
 
 ---
 
-## Aktuelle Ziele
+### Aktuelle Ziele
 
 - Programmierkenntnisse in Python, Java, HTML, CSS, JavaScript, Git & SQL erweitern  
 - Reale Projekte umsetzen (Portfolio, Webtools, Datenbanken und Automatisierung)
 
 ---
 
-## Kontakt
+### Kontakt
 
 🌐 Portfolio: [Süleyman Gümüs](https://sugu4.github.io/GuemuesPortfolio/)
 
