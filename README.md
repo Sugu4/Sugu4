@@ -8,6 +8,10 @@ Lösungen für nachhaltige Prozess- & Softwareoptimierung
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ansehen-blue?style=for-the-badge)](https://sugu4.github.io/GuemuesPortfolio/)
 
+<a href="https://sugu4.github.io/GuemuesPortfolio/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-ansehen-blue?style=for-the-badge" alt="Portfolio ansehen">
+</a>
+
 ---
 
 ### Über mich
