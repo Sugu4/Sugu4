@@ -12,36 +12,47 @@ Lösungen für nachhaltige Prozess- & Softwareoptimierung
 
 ### Über mich
 
-Als lösungsorientierter Mensch fokussiere ich mich darauf, Probleme und Herausforderungen **effektiv und effizient** zu lösen.  
-Ich identifiziere nicht nur Hindernisse, sondern entwickle aktiv Wege, um sie nachhaltig zu überwinden.
+Als lösungsorientierter Entwickler verbinde ich meine Leidenschaft für das Software-Engineering mit fundierter Erfahrung im Lean Management.  
+Mein Fokus liegt darauf, Prozesse durch Automatisierung und intelligente Tools effektiver und effizienter zu gestalten, statt nur Code zu schreiben.
 
 Ich bin:
 
-- teamorientiert und offen für Feedback
-- kunden- und prozessorientiert
-- lernbereit und technikaffin
-
-In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöhen**, sondern auch durch **strukturierte Prozessoptimierungen** **Effizienzgewinne** für das Unternehmen erzielen.
+- Teamorientiert und Feedback-stark: Ich schätze den Austausch und kontinuierliches Wachstum.  
+- Prozess-Mindset: Dank meines Hintergrunds in Lean und KVP erkenne ich Verschwendung und löse sie digital.  
+- Technikaffin: Ich gehe über das Standard hinaus und setze auf moderne Stacks (FastAPI, Docker, Cloud).  
 
 ---
 
-### Mein Hintergrund 
+### Mein Tech-Stack unf Hintergrund
+Aktuell absolviere ich eine Umschulung zum Fachinformatiker für Anwendungsentwicklung (Start: Januar 2025).  
 
-- Aktuell in der Umschulung zum Fachinformatiker für Anwendungsentwicklung (Start: Januar 2025)
-- Schwerpunkt auf Java, Python, SQL sowie Webtechnologien (HTML, CSS, JavaScript)
-- Praxiserfahrung mit REST-APIs und FastAPI in eigenen Projekten
-- Umsetzung objektorientierter Programmierung und Datenbankanbindung (SQLite, PostgreSQL)
-- Regelmäßige Praxis durch „100 Days of Code“ und GitHub-Projekte
-- Sicher im Umgang mit Versionskontrolle (Git/GitHub) und technischer Dokumentation
-- Mehrjährige Berufserfahrung in Prozessoptimierung, Lean Management, REFA und KVP (Kaizen)
-- Fokus auf effiziente, ergonomische und digitalisierte Prozessgestaltung
+- Backend: Java, Python (FastAPI), REST-APIs, Node.js (in Vertiefung)
+- Frontend: HTML5, CSS3, JavaScript, aktueller Fokus auf React
+- Datenbanken: SQL (PostgreSQL, SQLite), NoSQL (MongoDB, Elasticsearch).
+- Infrastruktur und DevOps: Docker, Cloud-Grundlagen, Git/GitHub, CI/CD-Ansätze
+- Methodik: Lean Management, Six Sigma, REFA und KVP (Kaizen).
 
 ---
 
-### Aktuelle Ziele
+### Top Projekte & Portfolio
 
-- Programmierkenntnisse in Python, Java, HTML, CSS, JavaScript, Git & SQL erweitern  
-- Reale Projekte umsetzen (Portfolio, Webtools, Datenbanken und Automatisierung)
+#### Featured Projects (Development)
+TrendScope • Trend Intelligence System
+- Analyse globaler Social-Media-Trends mittels NLP und Machine Learning.
+- Tech: Python, MongoDB, Elasticsearch, PostgreSQL.
+
+FI Simulator • Prüfungsvorbereitung 2.0
+- Webbasierte Plattform für Fachinformatiker zur interaktiven Prüfungssimulation.
+- Tech: HTML, CSS, JavaScript (Vanilla).
+
+Trading Bots (Fobix & Foborix) • Automated Finance
+- Entwicklung von Algorithmen zur Marktanalyse und automatisierten Entscheidungsfindung.
+- Tech: Python, Datenanalyse, Algorithmen.
+
+#### Lean & Process Optimization
+All in One Project • Interdisziplinäre Optimierung
+- Layoutplanung, Ergonomie und REFA-Analysen zur Effizienzsteigerung in der Montage.
+- Methoden: Lean Management, KVP, Six Sigma.
 
 ---
 
@@ -51,5 +62,5 @@ In meinen bisherigen Projekten konnte ich nicht nur **Kundenzufriedenheit erhöh
 
 ---
 
-> „Erfolg ist kein Zufall – sondern das Ergebnis von Analyse, Umsetzung und Leidenschaft.“
+> „Erfolg ist kein Zufall, sondern das Ergebnis von Analyse, Umsetzung und Leidenschaft.“
 
