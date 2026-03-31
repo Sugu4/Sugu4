@@ -54,6 +54,11 @@ All in One Project • Interdisziplinäre Optimierung
 - Layoutplanung, Ergonomie und REFA-Analysen zur Effizienzsteigerung in der Montage.
 - Methoden: Lean Management, KVP, Six Sigma.
 
+#### Tools & Learning
+- System Trader Log: Digitales Journal für systematisches Trading.
+- 100 Days of Code: Meine tägliche Reise durch den Tech-Stack (FastAPI, Python, Web).
+- SQL & Java DB-Projekte: Modellierung realer Datenbankszenarien.
+
 ---
 
 ### Kontakt
