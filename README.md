@@ -61,6 +61,26 @@ All in One Project • Interdisziplinäre Optimierung
 
 ---
 
+### Meine SMART-Ziele
+
+1. Full-Stack-Expertise (React & Node.js)
+   - Ziel, ist die Erweiterung meiner Frontend- und Backend-Kompetenzen durch den Wechsel von Vanilla JS zu modernen Frameworks.
+   - Messbarkeit: erfolgreiche Migration des FI-Simulators auf React und Aufbau eines neuen Backends mit Node.js.
+
+2. Containerisierung und Deployment (Docker)
+   - Ziel ist es, alle aktiven Backend-Projekte (Python/Java) professionell in Docker-Container zu verpacken.
+   - Messbarkeit: Bereitstellung von Docker-Compose-Dateien in mindestens drei Repositories, um eine sofortige Ausführung („One-Click-Setup”) zu ermöglichen.
+
+3. Solution-Oriented Web Development
+   - ZIel: Entwicklung mehrerer Web-Apps, die reale Bedürfnisse im Alltag oder Beruf erfüllen (z. B. spezialisierte Hilfstools).
+   - Messbarkeit: Veröffentlichung von zwei neuen funktionalen Web-Tools, die spezifische Prozessschritte automatisieren oder vereinfachen.
+
+4. Software-Support und Hilfs-Tools
+   - Ziel: Erstellung spezialisierter Software-Hilfsprogramme, die die Transparenz und Effizienz in Projekten steigern (Lean-Ansatz).
+   - Messbarkeit: Integration von automatisierten Dokumentations- oder Analyse-Features in meine bestehenden Tools (z. B. TrendScope oder Trader Log).
+
+---
+
 ### Kontakt
 
 🌐 Portfolio: [Süleyman Gümüs](https://sugu4.github.io/GuemuesPortfolio/)
