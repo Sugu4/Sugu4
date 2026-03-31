@@ -36,7 +36,7 @@ Aktuell absolviere ich eine Umschulung zum Fachinformatiker für Anwendungsentwi
 
 ### Top Projekte & Portfolio
 
-#### Featured Projects (Development)
+#### ◆ Featured Projects (Development)
 TrendScope • Trend Intelligence System
 - Analyse globaler Social-Media-Trends mittels NLP und Machine Learning.
 - Tech: Python, MongoDB, Elasticsearch, PostgreSQL.
@@ -49,12 +49,12 @@ Trading Bots (Fobix & Foborix) • Automated Finance
 - Entwicklung von Algorithmen zur Marktanalyse und automatisierten Entscheidungsfindung.
 - Tech: Python, Datenanalyse, Algorithmen.
 
-#### Lean & Process Optimization
+#### ◆ Lean & Process Optimization
 All in One Project • Interdisziplinäre Optimierung
 - Layoutplanung, Ergonomie und REFA-Analysen zur Effizienzsteigerung in der Montage.
 - Methoden: Lean Management, KVP, Six Sigma.
 
-#### Tools & Learning
+#### ◆ Tools & Learning
 - System Trader Log: Digitales Journal für systematisches Trading.
 - 100 Days of Code: Meine tägliche Reise durch den Tech-Stack (FastAPI, Python, Web).
 - SQL & Java DB-Projekte: Modellierung realer Datenbankszenarien.
