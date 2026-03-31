@@ -51,7 +51,7 @@ Ich bin:
 - Tech: Python, Datenanalyse, Algorithmen.
 
 #### ◆ Lean & Process Optimization
-[All in One Project](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sugu4.github.io/GuemuesPortfolio/assets/project/All%20in%20one%20Project.pdf) • Interdisziplinäre Optimierung
+[All in One Project](https://sugu4.github.io/GuemuesPortfolio/#projects) • Interdisziplinäre Optimierung
 - Layoutplanung, Ergonomie und REFA-Analysen zur Effizienzsteigerung in der Montage.
 - Methoden: Lean Management, KVP, Six Sigma.
 
