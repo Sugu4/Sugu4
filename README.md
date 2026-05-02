@@ -24,7 +24,7 @@ Ich bin:
 
 ---
 
-### Mein Tech-Stack unf Hintergrund
+### Mein Tech-Stack und Hintergrund
 *Aktuell absolviere ich eine Umschulung zum Fachinformatiker für Anwendungsentwicklung (Start: Januar 2025)* 
 
 - Fullstack: Java, Python (FastAPI), REST-APIs, Node.js & React (in Vertiefung)
