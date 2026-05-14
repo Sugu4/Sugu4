@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-öffnen→-blue?style=for-the-badge)](https://sugu4.github.io/GuemuesPortfolio/)  
 
-[![Katalog](https://img.shields.io/badge/Katalog-öffnen→-green?style=for-the-badge)](https://sugu4.github.io/Projekte-Katalog/)
+[![Katalog](https://img.shields.io/badge/Katalog-öffnen→-darkgreen?style=for-the-badge)](https://sugu4.github.io/Projekte-Katalog/)
 
 ---
 
