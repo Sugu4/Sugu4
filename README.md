@@ -6,7 +6,7 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ansehen-blue?style=for-the-badge)](https://sugu4.github.io/GuemuesPortfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ansehen-blue?style=for-the-badge)](https://sugu4.github.io/GuemuesPortfolio/)  
 [![Katalog](https://img.shields.io/badge/Katalog-ansehen-green?style=for-the-badge)](https://sugu4.github.io/Projekte-Katalog/)
 
 ---
