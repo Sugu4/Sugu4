@@ -14,6 +14,47 @@
   </div>
 </div>
 
+.cta-wrapper{
+    display:flex;
+    align-items:center;
+    gap:18px;
+}
+
+.portfolio-btn{
+    background:#0E8FFF;
+    color:white;
+    padding:12px 22px;
+    font-weight:bold;
+    text-decoration:none;
+    font-size:14px;
+}
+
+.cta-arrow{
+    font-size:58px;
+    color:#A6FF00;
+
+    text-shadow:
+        0 0 10px #A6FF00,
+        0 0 20px #A6FF00,
+        0 0 40px #A6FF00;
+
+    animation:arrowMove 1.4s ease-in-out infinite;
+}
+
+@keyframes arrowMove{
+    0%{
+        transform:translateX(0px);
+    }
+
+    50%{
+        transform:translateX(10px);
+    }
+
+    100%{
+        transform:translateX(0px);
+    }
+}
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-ansehen-blue?style=for-the-badge)](https://sugu4.github.io/GuemuesPortfolio/)  
 
 [![Katalog](https://img.shields.io/badge/Katalog-ansehen-green?style=for-the-badge)](https://sugu4.github.io/Projekte-Katalog/)
