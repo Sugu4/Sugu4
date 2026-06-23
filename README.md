@@ -6,7 +6,7 @@
 
 ---
 
-[![WebM24](https://img.shields.io/badge/Website-öffnen→-blue?style=for-the-badge)](https://sugu4.github.io/webmiete24/) 
+[![WebM24](https://img.shields.io/badge/Website-öffnen→-blue?style=for-the-badge)](https://webmiete-24.de/) 
 
 ---
 
