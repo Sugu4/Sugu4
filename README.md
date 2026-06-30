@@ -37,6 +37,8 @@ Ich bin:
 
 ### Top Projekte & Portfolio
 
+[![WebM24](https://img.shields.io/badge/LiveProjekte-ansehen→-violet?style=for-the-badge)](https://www.instagram.com/webmiete24/)  
+
 #### ◆ Featured Projects (Development)
 [TrendScope](https://github.com/Sugu4/Trend-Scope) • Trend Intelligence System
 - Analyse globaler Social-Media-Trends mittels NLP und Machine Learning.
