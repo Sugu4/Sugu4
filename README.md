@@ -86,8 +86,8 @@ Ich bin:
 
 ### Kontakt
 
-🌐 Portfolio: [Süleyman Gümüs](https://sugu4.github.io/GuemuesPortfolio/)  
-📫 Erreichbar über GitHub oder mein Portfolio.
+🌐 [Süleyman Gümüs](https://webmiete-24.de/kontakt.html)  
+📫 Oder über GitHub.
 
 ---
 
